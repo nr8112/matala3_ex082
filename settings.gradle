@@ -1,0 +1,2 @@
+include ':app'
+rootProject.name = "matala3_ex082"
